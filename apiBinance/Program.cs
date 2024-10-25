@@ -8,8 +8,8 @@ using System.Net.Sockets;
 
 internal static class Program
 {
-    private const string ApiKey = "GW0XwMVJY6BOGnpWVX9ZQcvsjVWRSli4AF1LmocK4edg8ecqRXKqgIoSQfS89Ml3";
-    private const string Secret = "vvyAZ0XheTGYIXHkVx1RWFoXyy61nTcPkSy7MYvmevCrMi4KYPxqxiSLPhwphHsH";
+    private const string ApiKey = "";
+    private const string Secret = "";
    
     static async Task Main(string[] args)
     {
